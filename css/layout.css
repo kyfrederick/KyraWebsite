@@ -711,7 +711,7 @@ ul#nav li.current a { color: #F06000; }
    color: #111;
 }
 .popup-modal .description-box p {
-	font: 14px/24px 'opensans-regular', sans-serif;
+	font: 14px/24px 'opensans-regular', sans-serif; 
    color: #A1A1A1;
    margin-bottom: 12px;
 }
@@ -902,7 +902,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #activities .info {
-   font: 16px/24px 'librebaskerville-italic', sans-serif;
+   font: 16px/24px 'opensans-regular', sans-serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -913,12 +913,13 @@ ul#nav li.current a { color: #F06000; }
    margin-left: 5px;
 }
 #activities .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 15px/24px 'librebaskerville-italic', sans-serif;
    margin-top: 6px;
 }
 
 #activities p {
   text-align: center;
+ font: 15px/24px 'opensans-light', sans-serif;
 }
 
 
