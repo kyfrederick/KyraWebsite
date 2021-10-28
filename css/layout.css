@@ -252,6 +252,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .about-content {
+font-family: 'librebaskerville-regular', serif;
   position: relative;
   text-align: left;
   max-width: 850px;
