@@ -224,6 +224,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about .section-intro {
   margin-bottom: 3rem;
+  color: #E8E8E8;
 }
 
 .section-intro h1 {
@@ -247,7 +248,7 @@ ul#nav li.current a { color: #F06000; }
 .intro-info .lead {
   text-align: left;
   padding-left: 13rem;
-	color: #FFFFFF;
+	color: #E8E8E8;
 }
 
 .about-content {
@@ -255,7 +256,7 @@ ul#nav li.current a { color: #F06000; }
   text-align: left;
   max-width: 850px;
   margin-bottom: 3.6rem;
-color: #FFFFFF;
+color: #E8E8E8;
 }
 .about-content h3 {
   font-family: 'opensans-bold', sans-serif;
