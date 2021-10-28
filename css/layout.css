@@ -224,7 +224,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about .section-intro {
   margin-bottom: 3rem;
-  color: #E8E8E8;
+  color: #888888;
 }
 
 .section-intro h1 {
@@ -276,7 +276,7 @@ color: #888888;
 }
 .about-content .info-list li strong {
   font-family: 'opensans-bold', sans-serif;
-  color: #313131;
+  color: #FFFFFF;
   text-transform: uppercase;
   letter-spacing: .2rem;
   font-size: 1.5rem;
