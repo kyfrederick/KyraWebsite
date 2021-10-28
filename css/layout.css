@@ -899,7 +899,7 @@ ul#nav li.current a { color: #F06000; }
 #activities h3 {
   color: #11ABB0;
   text-align: center;
-margin-bottom: 1.8rem;
+  margin-top: 1.8rem;
 }
 
 #activities .info {
@@ -915,7 +915,7 @@ margin-bottom: 1.8rem;
 }
 #activities .date {
    font: 15px/24px 'librebaskerville-italic', sans-serif;
-   margin-top: 6px;
+   margin-top: 3px;
 }
 
 #activities p {
