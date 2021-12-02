@@ -1177,14 +1177,7 @@ footer .social-links li:first-child { margin-left: 0; }
  * skillbars - (_skillbars.scss)
  * -------------------------------------------------------------------here
  */
-* {box-sizing: border-box}
 
-/* Container needed to position the overlay. Adjust the width as needed */
-.container {
-  position: relative;
-  width: 50%;
-  max-width: 300px;
-}
 
 /* The overlay effect - lays on top of the container and over the image */
 .overlay {
