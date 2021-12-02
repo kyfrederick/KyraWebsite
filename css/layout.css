@@ -943,12 +943,8 @@ color: #FFFFFF; <--here
   padding-bottom: 6rem;
   text-align: center;
 }
-#stats p.lead {
-   font: 18px/36px 'opensans-light', sans-serif;
-   padding-right: 3%;
 #stats .row {
   max-width: 1440px;
-color: #FFFFFF
 }
 #stats .stat {
   border-left: 1px solid rgba(255, 255, 255, 0.12);
