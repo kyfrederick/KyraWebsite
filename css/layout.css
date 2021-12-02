@@ -248,7 +248,7 @@ ul#nav li.current a { color: #F06000; }
 .intro-info .lead {
   text-align: left;
   padding-left: 13rem;
-color: #FFFFFF; <--here
+color: #E8E8E8;
 }
 
 .about-content {
@@ -257,7 +257,7 @@ font-family: 'librebaskerville-regular', serif;
   text-align: left;
   max-width: 850px;
   margin-bottom: 3.6rem;
-color: #FFFFFF; <--here
+color: #888888;
 }
 .about-content h3 {
   font-family: 'opensans-bold', sans-serif;
