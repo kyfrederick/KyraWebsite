@@ -1271,7 +1271,11 @@ footer .social-links li:first-child { margin-left: 0; }
   width: 50%;
   max-width: 300px;
 }
-
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+} 
 /* The overlay effect - lays on top of the container and over the image */
 .overlay {
   position: absolute;
